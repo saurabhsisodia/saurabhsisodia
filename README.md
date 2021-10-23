@@ -1,7 +1,6 @@
-## Hello There 👋
+## Hello There, Love YOU 👋
 
 
-- 🔭 I’m currently working on Go
-- 🌱 I’m currently learning GCP
+- 🔭 I’m in LOVE with Go
 - 💬 Ask me about Anything
 - 📫 How to reach me: Please feel free to contact me on ssisodia507@gmail.com
